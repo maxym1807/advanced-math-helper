@@ -80,6 +80,7 @@ Advanced-Math-Helper/
 ├── history.py
 ├── data/
 │   └── history.json
+├── requirements.txt
 └── README.md
 ```
 
